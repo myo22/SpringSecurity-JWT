@@ -1,6 +1,6 @@
 package com.example.springsecurityjwt.config;
 
-import com.example.fakeshopapi.security.jwt.exception.CustomAuthenticationEntryPoint;
+import com.example.springsecurityjwt.security.jwt.exception.CustomAuthenticationEntryPoint;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
